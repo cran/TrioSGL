@@ -1,0 +1,2 @@
+useDynLib("TrioSGL", .registration = TRUE)
+export(TrioSGL)
